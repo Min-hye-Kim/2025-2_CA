@@ -1,2 +1,5 @@
 # 2025-2_CA
-2025_2nd semester/Computer Architecture
+
+2025_2학기 Computer Architecture과목
+
+> 10/2*HW3 *(RISC-V_Assembly)
