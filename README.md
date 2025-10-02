@@ -2,4 +2,4 @@
 
 2025_2학기 Computer Architecture과목
 
-> 10/2*HW3 *(RISC-V_Assembly)
+> 10/2_HW3 (RISC-V_Assembly)
